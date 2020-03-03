@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ - Copyright (c) 2020 ultimate
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.github.ultimate</groupId>
+	<artifactId>essentials-vanilla-utils</artifactId>
+	<name>essentials-vanilla-utils</name>
+	<version>1.0.0</version>
+    <packaging>jar</packaging>
+	<description>A collection of java utils, that do not require any 3rd party library</description>
+	
+	<url>https://github.com/ultimate/essentials-vanilla-utils</url>
+	
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/ultimate/essentials-vanilla-utils/issues</url>
+	</issueManagement>
+	
+	<licenses>
+		<license>
+			<name>GNU General Public License</name>
+			<url>http://www.gnu.org/licenses/</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	
+	<developers>
+		<developer>
+			<name>ultimate</name>
+			<email>ultimatej@gmx.net</email>
+		</developer>
+	</developers>
+	
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+	
+	<dependencies>
+		<!--
+		<dependency>
+			<groupId>		</groupId>
+			<artifactId>	</artifactId>
+			<version>		</version>
+			<scope>			</scope>
+		</dependency>
+		-->
+	</dependencies>	
+</project>
